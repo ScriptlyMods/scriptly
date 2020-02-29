@@ -1,11 +1,11 @@
 {
-    "homepage": "https://www.scriptly.club/bettercounters",
-    "promos": {
-        "1.8.9-latest": "1.1",
-        "1.8.9-reccomended": "1.0"
-    },
-    "1.8.9": {
-        "1.0": "Test",
-        "1.1": "First Update! Added Toggle Options for all counters. You can now toggle the transparent box around the counters. You can pick which GUI Scale you use so the counter will appear in all GUI modes. Also some bug fixes"
-    }
+	"homepage": "https://www.scriptly.club/bettercounters",
+	"promos": {
+		"1.8.9-latest": "1.1",
+		"1.8.9-reccomended": "1.1"
+	},
+	"1.8.9": {
+		"1.1": "Test"
+
+	}
 }
