@@ -1,11 +1,11 @@
 {
 	"homepage": "https://www.scriptly.club/mods/bettercounters",
 	"promos": {
-		"1.8.9-latest": "1.2.1",
-		"1.8.9-reccomended": "1.2.1"
+		"1.8.9-latest": "1.2",
+		"1.8.9-reccomended": "1.2"
 	},
 	"1.8.9": {
-		"1.2.1": "Lots of new customization options, bug fixes, and more!"
+		"1.2": "Lots of new customization options, bug fixes, and more!"
 
 	}
 }
